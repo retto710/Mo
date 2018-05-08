@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">App_Navegation</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="message_items">Esta no deveria ser una lista :v</string>
+    <string name="items_title">Items</string>
+    <string name="title_MyItems">MyItems</string>
+    <string name="Category">category</string>
+    <string name="txtName">Name</string>
+    <string name="Description">Description</string>
+    <string name="referencial_value">referencial value</string>
+    <string name="tradable">tradable</string>
+    <string name="Save">save</string>
+    <string name="title_Profile">My Profile</string>
+    <string name="title_Request">Request</string>
+    <string name="no_login">Take me with out Login!!!</string>
+    <string name="take_to_profile">take me to mY profile</string>
+    <string name="Save_to_api">Save and send to API</string>
+    <string name="Save_to_sugar">save in device</string>
+    <string name="Show_list">Show list</string>
+    <string name="item_delete">delete</string>
+</resources>
